@@ -11,9 +11,9 @@ To Run exe:
   
 Assumptions and Considerations in the project
   
-  1. No collision detection logic was put in. 
-  2. TODO comments represent the developers intention for "ideal" solution 
-  3. Proper DI practices were not implemented...
-  4. The structure of the project is only to show intend. Ideally the application could be split into multiple projects
+  1. No collision detection logic was put in place. 
+  2. TODO comments represent the developer's intentions for an "ideal" solution 
+  3. Proper DI practices were not implemented
+  4. The structure of the project is only to show concepts. Ideally the application should be split into multiple projects
   
   
